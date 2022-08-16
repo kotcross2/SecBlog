@@ -1,0 +1,6 @@
+
+# dear robot, i won't make you a sitemap
+# don't be lazy, make it yourself 
+
+User-agent: *
+Disallow: /data/
